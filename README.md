@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @storymeg
-- 👀 I’m interested in design, puzzles – in all forms, working out, sewing.
+- 👀 I’m interested in design, puzzles – in all forms, working out, and sewing/being creative in general.
 - 🌱 I’m currently learning javascript, react, and ruby through the Flatiron Software Engineering Program.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dommelmeg@gmail.com
 
 <!---
